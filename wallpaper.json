@@ -1,0 +1,36 @@
+{
+  "wallpapers": [
+    {
+      "coordinates": [0.33114642682417277, 0.26092952307354726],
+      "description": "This was sunset after an intense thunderstorm",
+      "color": "#ffcc00",
+      "category": "others",
+      "likes": 10,
+      "viewCount": 142,
+      "downloadCount": 0,
+      "_id": "61777359f1f5a900162d10f9",
+      "smallImageUrl": "https://i.redd.it/red56qzti0v71.jpg",
+      "imageId": "qdi1rq",
+      "fullImageUrl": "https://i.redd.it/red56qzti0v71.jpg",
+      "blurHash": "UvLz1bubDWs-:tT6j[W}RQn8bF6D+jFjF6",
+      "updatedAt": "2021-10-25T22:54:13.538Z",
+      "__v": 0
+    },
+    {
+      "coordinates": [0.5216388726413344, 0.72296711787723119],
+      "description": "Sea waves crashing on shore during daytime",
+      "color": "#d9c0e0",
+      "category": "chill",
+      "likes": 5,
+      "viewCount": 135,
+      "downloadCount": 0,
+      "_id": "6140e092c76d8441b0e1970f",
+      "smallImageUrl": "https://images.unsplash.com/photo-1628082878684-1b66400cdf85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+      "imageId": "7vfm8_A2GXY",
+      "fullImageUrl": "https://images.unsplash.com/photo-1628082878684-1b66400cdf85",
+      "blurHash": "UFOHfZ~T9F%%^%ayRjf7o~WBxuj[WBjF%2ay",
+      "updatedAt": "2021-08-22T12:43:56.129Z",
+      "__v": 0
+    }
+  ]
+}
