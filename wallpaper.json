@@ -1,36 +1,123 @@
 {
-  "wallpapers": [
-    {
-      "coordinates": [0.33114642682417277, 0.26092952307354726],
-      "description": "This was sunset after an intense thunderstorm",
-      "color": "#ffcc00",
-      "category": "others",
-      "likes": 10,
-      "viewCount": 142,
-      "downloadCount": 0,
-      "_id": "61777359f1f5a900162d10f9",
-      "smallImageUrl": "https://i.redd.it/red56qzti0v71.jpg",
-      "imageId": "qdi1rq",
-      "fullImageUrl": "https://i.redd.it/red56qzti0v71.jpg",
-      "blurHash": "UvLz1bubDWs-:tT6j[W}RQn8bF6D+jFjF6",
-      "updatedAt": "2021-10-25T22:54:13.538Z",
-      "__v": 0
-    },
-    {
-      "coordinates": [0.5216388726413344, 0.72296711787723119],
-      "description": "Sea waves crashing on shore during daytime",
-      "color": "#d9c0e0",
-      "category": "chill",
-      "likes": 5,
-      "viewCount": 135,
-      "downloadCount": 0,
-      "_id": "6140e092c76d8441b0e1970f",
-      "smallImageUrl": "https://images.unsplash.com/photo-1628082878684-1b66400cdf85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
-      "imageId": "7vfm8_A2GXY",
-      "fullImageUrl": "https://images.unsplash.com/photo-1628082878684-1b66400cdf85",
-      "blurHash": "UFOHfZ~T9F%%^%ayRjf7o~WBxuj[WBjF%2ay",
-      "updatedAt": "2021-08-22T12:43:56.129Z",
-      "__v": 0
-    }
-  ]
+  "Data": {
+    "wallpapers": [
+      {
+        "R": {
+          "coordinates": [0.33114642682417277, 0.26092952307354726],
+          "description": "This was sunset after an intense thunderstorm",
+          "color": "#ffcc00",
+          "category": "others",
+          "likes": 10,
+          "viewCount": 142,
+          "downloadCount": 0,
+          "_id": "61777359f1f5a900162d10f9",
+          "smallImageUrl": "https://i.redd.it/red56qzti0v71.jpg",
+          "imageId": "qdi1rq",
+          "fullImageUrl": "https://i.redd.it/red56qzti0v71.jpg",
+          "blurHash": "UvLz1bubDWs-:tT6j[W}RQn8bF6D+jFjF6",
+          "updatedAt": "2021-10-25T22:54:13.538Z",
+          "__v": 0
+        }
+      },
+      {
+        "R": {
+          "coordinates": [0.5216388726413344, 0.72296711787723119],
+          "description": "Sea waves crashing on shore during daytime",
+          "color": "#d9c0e0",
+          "category": "chill",
+          "likes": 5,
+          "viewCount": 135,
+          "downloadCount": 0,
+          "_id": "6140e092c76d8441b0e1970f",
+          "smallImageUrl": "https://images.unsplash.com/photo-1628082878684-1b66400cdf85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+          "imageId": "7vfm8_A2GXY",
+          "fullImageUrl": "https://images.unsplash.com/photo-1628082878684-1b66400cdf85",
+          "blurHash": "UFOHfZ~T9F%%^%ayRjf7o~WBxuj[WBjF%2ay",
+          "updatedAt": "2021-08-22T12:43:56.129Z",
+          "__v": 0
+        }
+      },
+      {
+        "R": {
+          "coordinates": [0.4218978725413134, 0.32296711787723119],
+          "description": "Mountain landscape at sunset",
+          "color": "#a3d9c0",
+          "category": "nature",
+          "likes": 20,
+          "viewCount": 200,
+          "downloadCount": 10,
+          "_id": "6180e592c7ed8441b9e1a91f",
+          "smallImageUrl": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+          "imageId": "mtns-191",
+          "fullImageUrl": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd",
+          "blurHash": "UcLwR*f6bIRo~pRjazfSx^RPofWBt8RPjZoL",
+          "updatedAt": "2021-09-15T14:43:56.129Z",
+          "__v": 0
+        }
+      },
+      {
+        "R": {
+          "coordinates": [0.4315928726413234, 0.51216711787723119],
+          "description": "Starry night sky over a calm lake",
+          "color": "#0000ff",
+          "category": "space",
+          "likes": 50,
+          "viewCount": 350,
+          "downloadCount": 25,
+          "_id": "6190e892c74d8441b7e1d62f",
+          "smallImageUrl": "https://images.unsplash.com/photo-1526140589921-a2d3b7d1d8e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+          "imageId": "starnight-231",
+          "fullImageUrl": "https://images.unsplash.com/photo-1526140589921-a2d3b7d1d8e3",
+          "blurHash": "U8FIj%00kXWB000000WBj[WBj[ay0Kt7kCWB",
+          "updatedAt": "2021-10-01T16:10:45.738Z",
+          "__v": 0
+        }
+      },
+      {
+        "R": {
+          "coordinates": [0.2215288726514345, 0.12516711787723119],
+          "description": "A field of lavender flowers at sunrise",
+          "color": "#f0e68c",
+          "category": "flowers",
+          "likes": 35,
+          "viewCount": 180,
+          "downloadCount": 5,
+          "_id": "6200f392d66f8541b8e1e92f",
+          "smallImageUrl": "https://images.unsplash.com/photo-1593642532973-d31b6557fa68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+          "imageId": "lavender-101",
+          "fullImageUrl": "https://images.unsplash.com/photo-1593642532973-d31b6557fa68",
+          "blurHash": "UcNlR~WBj[WB0000ofWBWBt7ozWBogf7ofoL",
+          "updatedAt": "2021-09-12T18:34:23.908Z",
+          "__v": 0
+        }
+      },
+      {
+        "R": {
+          "coordinates": [0.5918728764133344, 0.43261711787723119],
+          "description": "City skyline at night with glowing buildings",
+          "color": "#001eff",
+          "category": "urban",
+          "likes": 45,
+          "viewCount": 290,
+          "downloadCount": 15,
+          "_id": "6215a892e76f8341b9e1b63f",
+          "smallImageUrl": "https://images.unsplash.com/photo-1517423440428-a5a00ad493e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
+          "imageId": "citynight-789",
+          "fullImageUrl": "https://images.unsplash.com/photo-1517423440428-a5a00ad493e8",
+          "blurHash": "URFCnXX89e-:-;XTVrfRzWoz-;bGjIR:j]j@",
+          "updatedAt": "2021-11-10T19:30:34.128Z",
+          "__v": 0
+        }
+      }
+    ]
+  },
+  "Next": {
+    "page": 2,
+    "hasNextPage": true
+  },
+  "Pagination": {
+    "currentPage": 1,
+    "totalPages": 5,
+    "totalWallpapers": 30
+  }
 }
